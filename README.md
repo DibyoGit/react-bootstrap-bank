@@ -1,5 +1,5 @@
 
-### Reactive Bank
+### `Reactive Bank`
 
 A Web Bank Portal created using with React, React-Bootstrap, React-Router and Styled-Components
 
