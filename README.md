@@ -1,7 +1,7 @@
 
 ### `Reactive Bank`
 
-A Web Bank Portal created using with React, React-Bootstrap, React-Router and Styled-Components
+**A Web Bank Portal created using with React, React-Bootstrap, React-Router and Styled-Components**
 
 In the project directory, you can run:
 
