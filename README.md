@@ -1,6 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Reactive Bank
+
+A Web Bank Portal created using with React, React-Bootstrap, React-Router and Styled-Components
 
 In the project directory, you can run:
 
