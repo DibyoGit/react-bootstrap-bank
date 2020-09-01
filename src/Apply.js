@@ -14,7 +14,12 @@ export const Apply = () => {
                         <Form>
                             <Form.Group controlId="formloantype">
                                 <Form.Label><strong>Loan Type</strong></Form.Label>
-                                <Form.Control type="loantype" placeholder="" />
+                                <Form.Control as="select" custom>
+                                    <option>Select</option>
+                                    <option>Home</option>
+                                    <option>Vehicle</option>
+                                    <option>Personal</option>
+                                </Form.Control>
                             </Form.Group>
 
                             <Form.Group controlId="formloanamount">

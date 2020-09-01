@@ -23,9 +23,12 @@ export const Login = () => {
                             <Form.Group controlId="formBasicCheckbox">
                                 <Form.Check type="checkbox" label="Remember Password" />
                             </Form.Group>
-                            <Button variant="primary" type="submit">
-                                Login
+                            <Form.Group>
+                                <Button variant="primary" type="submit">
+                                    <i class="fa fa-unlock-alt" aria-hidden="true"></i> Login
                             </Button>
+                            </Form.Group>
+                            <a href="/register">New Customer? Click here to Register</a>
                         </Form>
                     </Card.Body>
                 </Card>
